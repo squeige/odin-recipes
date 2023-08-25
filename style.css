@@ -1,0 +1,13 @@
+* {
+  font-family: Fantasy, Sans-serif, Serif
+}
+
+h1
+{
+  text-align: right;
+}
+
+.items{
+  text-align: center;
+  list-style: none;
+}
